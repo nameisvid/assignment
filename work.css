@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.bg-container {
+    background-color: #ffb3b3;
+    color: #0a0d57;
+    font-family: "roboto";
+    background-size: cover;
+
+
+}
+
+.section-container {
+    padding-top: 15px;
+    margin-left: 25px;
+    margin-left: 35px;
+}
+
+.logo {
+    margin-top: 18px;
+    margin-right: 55px;
+}
+
+.icon-container {
+    border: solid 4px #0a0d57;
+    height: 95px;
+    width: 95px;
+    margin-bottom: 10px;
+    border-radius: 48px;
+}
+
+.icon {
+    align-self: center;
+    font-size: 38px;
+    color: #0a0d57;
+}
+
+.interest-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 95px;
+    width: 95px;
+    margin-bottom: 10px;
+    border-radius: 48px;
+    background-color: #0a0d57;
+}
+
+.interest-icon {
+
+    align-self: center;
+    font-size: 38px;
+    color: #ffb3b3;
+
+}
+
+.icon-name {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 5px;
+
+}
+
+.wrap-card {
+    margin-left: 10px;
+    margin-right: 25px;
+}
+
+.profile-name {
+    font-family: "roboto";
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.disignation {
+
+    font-size: 18px;
+}
+
+.stit-lile {
+    border-left: 5px solid #0a0d57;
+    height: 180px;
+    margin-left: 35px;
+}
+
+.address-card {
+    margin-left: 25px;
+}
+
+.address-description {
+    font-family: "roboto";
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.break {
+    border-bottom: 5px solid #0a0d57;
+    width: 550px;
+    margin-left: 200px;
+
+}
+
+.year-num {
+    font-family: "roboto";
+    font-size: 16px;
+}
+
+.works-headings {
+    font-family: "roboto";
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.work-details {
+    font-family: "roboto";
+    font-size: 13px;
+    font-weight: 100;
+}
+
+.skill-name {
+    font-family: "roboto";
+    font-size: 18px;
+
+}
+
+.rating {
+    width: 12px;
+    height: 12px;
+    background-color: #0a0d57;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.stit-lile-two {
+    border-left: 5px solid #0a0d57;
+    height: 230px;
+    margin-left: 5px;
+}
